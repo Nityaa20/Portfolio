@@ -147,8 +147,3 @@ All loaded via CDN — no installation needed.
 - 🐙 [GitHub](https://github.com/Nityaa20)
 - 📧 nityaasuresh2005@gmail.com
 
----
-
-<div align="center">
-  Made with 🌸 by <strong>Nityaa S</strong>
-</div>
